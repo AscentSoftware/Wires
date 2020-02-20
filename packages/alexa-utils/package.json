@@ -1,0 +1,27 @@
+{
+  "name": "alexa-utils",
+  "description": "Utilities to process Alexa Skills",
+  "license": "ISC",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "alexa-smarthome-ts": "^0.0.0",
+    "joi": "^14.1.0",
+    "ramda": "^0.26.0"
+  },
+  "devDependencies": {
+    "@types/joi": "^14.0.0",
+    "@types/ramda": "^0.25.42"
+  }
+}

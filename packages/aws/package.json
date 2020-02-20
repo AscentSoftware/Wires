@@ -1,0 +1,38 @@
+{
+  "name": "@wires/aws",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.19",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "12.7.12",
+    "@types/ramda": "^0.26.38",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "ts-loader": "^6.2.1",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.5.0",
+    "@pulumi/aws": "^1.17.0",
+    "@pulumi/awsx": "^0.18.14",
+    "aws-sdk": "^2.596.0",
+    "base-64": "^0.1.0",
+    "fp-ts": "^2.4.0",
+    "fp-ts-ramda": "^0.1.7",
+    "io-ts": "^2.0.5",
+    "lodash": "^4.17.15",
+    "logging-ts": "^0.3.0",
+    "node-fetch": "^2.6.0",
+    "ramda": "^0.26.1",
+    "tap-ts": "^0.0.0",
+    "uuid": "^3.3.3"
+  }
+}

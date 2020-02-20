@@ -1,0 +1,13 @@
+{
+  "name": "async-messages",
+  "devDependencies": {
+    "@types/node": "^8.0.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^1.0.0",
+    "@pulumi/awsx": "^0.18.10",
+    "@pulumi/pulumi": "^1.0.0",
+    "@wires/aws": "^0.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "src",
+    "esModuleInterop": true
+  },
+  "references": [
+    {
+      "path": "../core"
+    },
+    {
+      "path": "../alexa-smarthome-types"
+    }
+  ]
+}

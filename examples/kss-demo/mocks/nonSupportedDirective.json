@@ -1,0 +1,11 @@
+{
+  "directive": {
+    "header": {
+      "namespace": "Alexa",
+      "name": "NON SUPPORTED",
+      "messageId": "abc-123-def-456",
+      "payloadVersion": "3"
+    },
+    "payload": {}
+  }
+}

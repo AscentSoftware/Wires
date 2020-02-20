@@ -1,0 +1,10 @@
+export const CUSTOM_INTENT = 'Alexa.CustomIntent';
+export const MOTION_SENSOR = 'Alexa.MotionSensor';
+export const CONTACT_SENSOR = 'Alexa.ContactSensor';
+export const ENDPOINT_HEALTH = 'Alexa.EndpointHealth';
+export const POWER_CONTROLLER = 'Alexa.PowerController';
+export const COLOUR_CONTROLLER = 'Alexa.ColorController';
+export const TEMPERATURE_SENSOR = 'Alexa.TemperatureSensor';
+export const BRIGHTNESS_CONTROLLER = 'Alexa.BrightnessController';
+export const THERMOSTAT_CONTROLLER = 'Alexa.ThermostatController';
+export const COLOUR_TEMPERATURE_CONTROLLER = 'Alexa.ColorTemperatureController';

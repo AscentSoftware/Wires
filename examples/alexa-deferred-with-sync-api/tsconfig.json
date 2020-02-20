@@ -1,0 +1,31 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": ".",
+    "esModuleInterop": true
+  },
+  "references": [
+    {
+      "path": "../../packages/core"
+    },
+    {
+      "path": "../../packages/aws"
+    },
+    {
+      "path": "../../packages/alexa-async-entrypoint"
+    },
+    {
+      "path": "../../packages/sync-api-processor"
+    },
+    {
+      "path": "../../packages/alexa-async-dispatcher"
+    },
+    {
+      "path": "../../packages/alexa-resources"
+    },
+    {
+      "path": "../../packages/alexa-utils"
+    }
+  ]
+}

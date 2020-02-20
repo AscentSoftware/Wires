@@ -1,0 +1,32 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "core"
+    },
+    {
+      "path": "aws"
+    },
+    {
+      "path": "alexa-smarthome-types"
+    },
+    {
+      "path": "alexa-utils"
+    },
+    {
+      "path": "alexa-async-entrypoint"
+    },
+    {
+      "path": "sync-api-processor"
+    },
+    {
+      "path": "async-api-processor"
+    },
+    {
+      "path": "alexa-resources"
+    },
+    {
+      "path": "tap-ts"
+    }
+  ]
+}

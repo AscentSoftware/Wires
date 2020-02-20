@@ -1,0 +1,20 @@
+{
+  "directive": {
+    "header": {
+      "namespace": "Alexa.PowerController",
+      "name": "TurnOn",
+      "messageId": "123",
+      "correlationToken": "456",
+      "payloadVersion": "3"
+    },
+    "endpoint": {
+      "scope": {
+        "type": "BearerToken",
+        "token": "678"
+      },
+      "endpointId": "1",
+      "cookie": {}
+    },
+    "payload": {}
+  }
+}

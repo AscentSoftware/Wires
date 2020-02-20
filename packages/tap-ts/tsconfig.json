@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "src",
+    "esModuleInterop": true
+  },
+  "references": [],
+  "exclude": ["src/**/*.spec.ts", "lib/**/*"]
+}

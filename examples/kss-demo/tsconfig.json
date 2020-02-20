@@ -1,0 +1,19 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": ".",
+    "esModuleInterop": true
+  },
+  "references": [
+    {
+      "path": "../alexa-deferred-with-sync-api"
+    },
+    {
+      "path": "../alexa-deferred-with-async-api"
+    },
+    {
+      "path": "../../packages/aws"
+    }
+  ]
+}

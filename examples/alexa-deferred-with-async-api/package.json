@@ -1,0 +1,21 @@
+{
+  "name": "alexa-deferred-with-async-api",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/node": "^8.0.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^1.0.0",
+    "@pulumi/awsx": "^0.18.10",
+    "@pulumi/pulumi": "^1.0.0",
+    "alexa-async-entrypoint": "^0.0.0",
+    "alexa-smarthome-ts": "^0.0.0",
+    "alexa-utils": "^0.0.0",
+    "async-api-processor": "^0.0.0",
+    "alexa-async-dispatcher": "^0.0.0",
+    "alexa-resources": "^0.0.0",
+    "@wires/aws": "^0.0.0",
+    "fp-ts": "^2.4.1"
+  }
+}

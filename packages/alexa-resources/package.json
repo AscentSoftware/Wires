@@ -1,0 +1,19 @@
+{
+  "name": "alexa-resources",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "alexa-utils": "^0.0.0",
+    "alexa-smarthome-ts": "^0.0.0",
+    "@wires/core": "^0.0.0",
+    "fp-ts": "^2.4.1"
+  }
+}
