@@ -32,6 +32,10 @@ We believe that these simple rules are powerful enough to describe every sort of
 
 The actual implementation can be found in `packages/core`.
 
+For more example of network composition, have a look at our case study:
+
+- [Reuse architectural patterns: a case study for Alexa](./alexa-architectural-components.md)
+
 # References
 
 There is a wide literature on composing networks. We borrowed several ideas from the following papers.
