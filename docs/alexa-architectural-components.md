@@ -7,7 +7,7 @@ Basically, Alexa interprets voice commands and sends directives to a skill. The 
 
 ## A case study
 
-![](images/composition-result.png?raw=true)
+![](images/alexa-usecase.png?raw=true)
 
 Assume that we want to build Alexa-based integrations for light bulb manufacturers.
 
