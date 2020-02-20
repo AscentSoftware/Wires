@@ -1,6 +1,6 @@
 # Wires Core
 
-[Serverless Diagrams](../docs/serverless-diagrams.md) is the main reference to understand how serverless networks are defined.
+[Serverless Diagrams](../../docs/serverless-diagrams.md) is the main reference to understand how serverless networks are defined.
 
 ## Tests for types
 

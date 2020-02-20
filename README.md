@@ -12,7 +12,7 @@ Several tools exists to describe serverless applications, e.g. [Serverless Frame
 
 We do not see Wires as an alternative to current solutions, but as a more abstract layer built on the top of them. The current implementation is based on Pulumi and would not have been possible without Pulumi closures.
 
-[Read more](./docs/serverless-diagrams.md)
+[Read more](./docs/README.md)
 
 ## What we can do now
 
