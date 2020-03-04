@@ -10,9 +10,6 @@
       "path": "../core"
     },
     {
-      "path": "../alexa-smarthome-types"
-    },
-    {
       "path": "../alexa-utils"
     }
   ]

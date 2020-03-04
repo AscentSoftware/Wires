@@ -22,9 +22,6 @@
       "path": "../../packages/alexa-async-dispatcher"
     },
     {
-      "path": "../../packages/alexa-resources"
-    },
-    {
       "path": "../../packages/alexa-utils"
     }
   ]

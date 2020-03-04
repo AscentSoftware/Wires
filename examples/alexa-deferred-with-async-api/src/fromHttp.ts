@@ -1,4 +1,4 @@
-import { ResponseEvent, AlexaErrorResponse } from 'alexa-smarthome-ts/src';
+import { ResponseEvent, AlexaErrorResponse } from 'alexa-smarthome-ts';
 
 import { EndpointDirective } from 'alexa-smarthome-ts';
 

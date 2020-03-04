@@ -8,9 +8,6 @@
   "references": [
     {
       "path": "../core"
-    },
-    {
-      "path": "../alexa-smarthome-types"
     }
   ]
 }

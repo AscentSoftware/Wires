@@ -79,7 +79,6 @@ Some Alexa infrastructural components and utilities
 
 - `packages/alexa-*` (TODO move to another workspace)
 - `alexa-utils` utilities to handle Alexa requests (TODO create an independent npm package)
-- `alexa-smarthome-types` types for SmartHome Alexa (TODO create an independent npm package)
 
 ## References and Inspiration Sources
 

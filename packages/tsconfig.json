@@ -8,9 +8,6 @@
       "path": "aws"
     },
     {
-      "path": "alexa-smarthome-types"
-    },
-    {
       "path": "alexa-utils"
     },
     {

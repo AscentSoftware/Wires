@@ -1,5 +1,5 @@
 import { compose, Network, Link, Lambda, Names, Database, Resource } from '@wires/core';
-import { EndpointDirective, ResponseEvent, AlexaErrorResponse } from 'alexa-smarthome-ts/src';
+import { EndpointDirective, ResponseEvent, AlexaErrorResponse } from 'alexa-smarthome-ts';
 
 import processor, {
   HttpRequest,

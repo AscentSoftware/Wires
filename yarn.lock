@@ -1559,6 +1559,11 @@ ajv@^6.10.0, ajv@^6.10.2, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+alexa-smarthome-ts@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/alexa-smarthome-ts/-/alexa-smarthome-ts-0.0.0.tgz#a221c1e6c0cd4e3376a6f6fe023a8ef8e3cfaf9e"
+  integrity sha512-6iFRvWY0xVfGstelnJ2JW+n+/Ygm8127J4SN8qcgTTcspo9uFw9NbS8C3VIyS4FSN5OE/IR79robXyO74rxhmg==
+
 ansi-escapes@^3.0.0, ansi-escapes@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-3.2.0.tgz#8780b98ff9dbf5638152d1f1fe5c1d7b4442976b"
@@ -7392,11 +7397,6 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-typescript@3.5.2:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.2.tgz#a09e1dc69bc9551cadf17dba10ee42cf55e5d56c"
-  integrity sha512-7KxJovlYhTX5RaRbUdkAXN1KUZ8PwWlTzQdHV6xNqvuFOs7+WBo10TQUqT19Q/Jz2hk5v9TQDIhyLhhJY4p5AA==
 
 typescript@^3.7.2, typescript@~3.7.3:
   version "3.7.4"
