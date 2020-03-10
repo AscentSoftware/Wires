@@ -5,9 +5,5 @@
     "rootDir": "src",
     "esModuleInterop": true
   },
-  "references": [
-    {
-      "path": "../tap-ts"
-    }
-  ]
+  "references": []
 }
